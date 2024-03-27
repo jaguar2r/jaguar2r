@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jaguar2r&color=006bed)
 
-### Olá visitante! 👋
+### Olá, visitante! 👋
 
 Já que você está aqui, deixa eu apresentar algumas informações sobre mim.
 
@@ -36,7 +36,7 @@ class Jaguar(Desenvolvedor):
 
 logging.basicConfig(filename='visitantes.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
-logging.info('Olá, visitante: %s, seja bem vindo', seu_nome)
+logging.info('Olá, visitante: %s, seja bem vindo', visitante)
 
 ```
 
