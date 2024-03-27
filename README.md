@@ -6,27 +6,34 @@ Já que você está aqui, deixa eu apresentar algumas informações sobre mim.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-```js
-import Desenvolvedor from 'jaguar2r';
+```python
+from jaguar2r import Desenvolvedor
 
-class SobreMim extends Desenvolvedor {
-  nome = 'Ricardo Silva';
-  area = 'Engenharia de Software';
-  trabalho = 'CSD BR';
-  formacao = 'Física';
-  universidade = 'Universidade Federal de São Carlos - UFSCar';
-}
+class Jaguar():
+    def sobre_mim():
+        self.nome = 'Ricardo Silva'
+        self.area = 'Engenharia de Software'
+        self.trabalho = 'CSD BR'
+        self.formacao = 'Física'
+        self.universidade = 'Universidade Federal de São Carlos - UFSCar'
 
-class Skills extends Desenvolvedor {
-  linguagens = ['Python', 'Clojure', 'Julia', 'TeX', 'JavaScript'];
-  bibliotecas = ['Sympy', 'Numpy', 'Pandas', 'Matplotlib', 'Scipy', 'Selenium'];
-  frameworks = ['React', 'React Native', 'Vue.js'];
-  dados = ['Apache Cassandra', 'PostgreSQL'];
-  mensageria = ['Kafka', 'Kafka Streams']
-  devOps = ['Git', 'GitLab', 'GitHub'];
-  utilidades = ['Postman'];
-  ferramentasDeDesenvolvimento = ['VSCode', 'Spyder', 'Trello', 'Figma'];
-}
+    def skills(self):
+        self.linguagens = ['Python', 'Clojure', 'Julia', 'TeX', 'JavaScript']
+        self.bibliotecas = ['Sympy', 'Numpy', 'Pandas', 'Matplotlib', 'Scipy', 'Selenium']
+        self.frameworks = ['React', 'React Native', 'Vue.js']
+        self.dados = ['Apache Cassandra', 'PostgreSQL']
+        self.mensageria = ['Kafka', 'Kafka Streams']
+        self.devOps = ['Git', 'GitLab', 'GitHub']
+        self.utilidades = ['Postman']
+        self.ferramentasDeDesenvolvimento = ['VSCode', 'Spyder', 'Trello', 'Figma']
+
+    def interesses():
+        self.assuntos = [Programação, Finanças, Física Teórica]
+        self.livos = ['Essencialismo: A disciplinada busca por menos', 'Os Axiomas de Zurique', 'O guia do mochileiro das galáxias']
+        self.series = ['Game of Thrones', 'Vikings', 'Breaking Bad', 'Better Call Saul', A Casa do Dragão]
+        self.hobbies = ['Corridas', 'Ciclismo']
+
+
 ```
 
 ## **Linguagens e Ferramentas:**  
