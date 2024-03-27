@@ -74,3 +74,4 @@ logging.info('Olá, visitante: %s, seja bem vindo', visitante)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/jaguar2r?label=follow&style=social)](https://github.com/jaguar2r)
 
+![snake gif](https://github.com/jaguar2r/jaguar2r/blob/output/github-contribution-grid-snake.svg)
