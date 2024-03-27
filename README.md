@@ -60,3 +60,5 @@ class Skills extends Desenvolvedor {
 [![Gmail Badge](https://img.shields.io/badge/-rrjs.ricardo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rrjs.ricardo@gmail.com)](mailto:rrjs.ricardo@gmail.com)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/jaguar2r?label=follow&style=social)](https://github.com/jaguar2r)
+
+https://www.linkedin.com/in/ricardo-rodrigues-78a0b955?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
