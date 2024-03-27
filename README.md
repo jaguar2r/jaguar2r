@@ -61,4 +61,4 @@ class Skills extends Desenvolvedor {
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/jaguar2r?label=follow&style=social)](https://github.com/jaguar2r)
 
-https://www.linkedin.com/in/ricardo-rodrigues-78a0b955?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![Linkedin: Ricardo Silva](https://img.shields.io/badge/-Ricardo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/jo%C3%A3o-ricardo-silva-0556661a1/](https://www.linkedin.com/in/rrjs-ricardo/))](https://www.linkedin.com/in/jo%C3%A3o-ricardo-silva-0556661a1/)
