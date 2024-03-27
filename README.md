@@ -7,10 +7,11 @@ Já que você está aqui, deixa eu apresentar algumas informações sobre mim.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 ```python
+import logging
 from jaguar2r import Desenvolvedor
 
-class Jaguar():
-    def sobre_mim():
+class Jaguar(Desenvolvedor):
+    def __init__(self):
         self.nome = 'Ricardo Silva'
         self.area = 'Engenharia de Software'
         self.trabalho = 'CSD BR'
@@ -20,19 +21,22 @@ class Jaguar():
     def skills(self):
         self.linguagens = ['Python', 'Clojure', 'Julia', 'TeX', 'JavaScript']
         self.bibliotecas = ['Sympy', 'Numpy', 'Pandas', 'Matplotlib', 'Scipy', 'Selenium']
-        self.frameworks = ['React', 'React Native', 'Vue.js']
+        self.frameworks = ['React', 'React Native', 'Vue.js', 'XMDS2']
         self.dados = ['Apache Cassandra', 'PostgreSQL']
         self.mensageria = ['Kafka', 'Kafka Streams']
         self.devOps = ['Git', 'GitLab', 'GitHub']
         self.utilidades = ['Postman']
         self.ferramentasDeDesenvolvimento = ['VSCode', 'Spyder', 'Trello', 'Figma']
 
-    def interesses():
-        self.assuntos = [Programação, Finanças, Física Teórica]
-        self.livos = ['Essencialismo: A disciplinada busca por menos', 'Os Axiomas de Zurique', 'O guia do mochileiro das galáxias']
-        self.series = ['Game of Thrones', 'Vikings', 'Breaking Bad', 'Better Call Saul', A Casa do Dragão]
+    def interesses(self):
+        self.assuntos = ['Programação', 'Finanças', 'Física Teórica']
+        self.livros = ['Essencialismo: A disciplinada busca por menos', 'Os Axiomas de Zurique', 'O guia do mochileiro das galáxias']
+        self.series = ['Game of Thrones', 'Vikings', 'Breaking Bad', 'Better Call Saul', 'A Casa do Dragão']
         self.hobbies = ['Corridas', 'Ciclismo']
 
+logging.basicConfig(filename='visitantes.log', level=logging.INFO, format='%(asctime)s - %(message)s')
+
+logging.info('Olá, visitante: %s, seja bem vindo', seu_nome)
 
 ```
 
