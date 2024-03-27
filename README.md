@@ -73,3 +73,6 @@ logging.info('Olá, visitante: %s, seja bem vindo', visitante)
 [![Linkedin: Ricardo Silva](https://img.shields.io/badge/-Ricardo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/rrjs-ricardo/](https://www.linkedin.com/in/rrjs-ricardo/))](https://www.linkedin.com/in/rrjs-ricardo/)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/jaguar2r?label=follow&style=social)](https://github.com/jaguar2r)
+
+![snake gif](https://github.com/jaguar2r/jaguar2r/blob/output/github-contribution-grid-snake.svg)
+
