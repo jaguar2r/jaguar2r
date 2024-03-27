@@ -59,7 +59,7 @@ class Skills extends Desenvolvedor {
 
 [![Gmail Badge](https://img.shields.io/badge/-rrjs.ricardo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rrjs.ricardo@gmail.com)](mailto:rrjs.ricardo@gmail.com)
 
-[![Linkedin: Ricardo Silva](https://www.linkedin.com/in/rrjs-ricardo/)]
+[![Linkedin: Ricardo Silva](https://img.shields.io/badge/-Ricardo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/rrjs-ricardo/](https://www.linkedin.com/in/rrjs-ricardo/))](https://www.linkedin.com/in/rrjs-ricardo/)
 
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/jaguar2r?label=follow&style=social)](https://github.com/jaguar2r)
 
