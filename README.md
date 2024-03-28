@@ -36,7 +36,7 @@ class Jaguar(Desenvolvedor):
         self.hobbies = ['Corridas', 'Ciclismo']
 
 
-def projetos(self):
+     def projetos(self):
         self.trabalho = ['Desenvolvimento de software']
         self.projetos_fechados = ['Desenvolvimento Mobile', 'Análise de Dados', 'Mercado financeiro']
         self.pesquisa_phd = ['Fenômenos Críticos', 'Transição de fase continua', 'Simulação Numérica']
