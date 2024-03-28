@@ -37,10 +37,10 @@ class Jaguar(Desenvolvedor):
 
 
 def projetos(self):
-        trabalho = ['Desenvolvimento de software']
-        projetos_fechados = ['Desenvolvimento Mobile', 'Análise de Dados',
+        self.trabalho = ['Desenvolvimento de software']
+        self.projetos_fechados = ['Desenvolvimento Mobile', 'Análise de Dados',
                              'Mercado financeiro']
-        pesquisa_phd = ['Fenômenos Críticos', 'Transição de fase continua',
+        self.pesquisa_phd = ['Fenômenos Críticos', 'Transição de fase continua',
                         'Simulação Numérica']
 
         
@@ -48,6 +48,7 @@ logging.basicConfig(filename='visitantes.log', level=logging.INFO, format='%(asc
 
 logging.info('Olá, visitante: %s, seja bem vindo', visitante)
 
+```
 
 ## **Linguagens e Ferramentas:**  
 
