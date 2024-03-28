@@ -24,9 +24,10 @@ class Jaguar(Desenvolvedor):
         self.frameworks = ['React', 'React Native', 'Vue.js', 'XMDS2']
         self.dados = ['Apache Cassandra', 'PostgreSQL']
         self.mensageria = ['Kafka', 'Kafka Streams']
-        self.devOps = ['Git', 'GitLab', 'GitHub']
+        self.devOps = ['Git', 'GitLab', 'GitHub', 'Docker', 'Docker Compose']
+        self.ci_cd = ['GitLab CI/CD']
         self.utilidades = ['Postman']
-        self.ferramentasDeDesenvolvimento = ['VSCode', 'Spyder', 'Trello', 'Figma']
+        self.ferramentas = ['VSCode', 'Spyder', 'Trello', 'Figma']
 
     def interesses(self):
         self.assuntos = ['Programação', 'Finanças', 'Física Teórica']
@@ -34,11 +35,19 @@ class Jaguar(Desenvolvedor):
         self.series = ['Game of Thrones', 'Vikings', 'Breaking Bad', 'Better Call Saul', 'A Casa do Dragão']
         self.hobbies = ['Corridas', 'Ciclismo']
 
+
+def projetos(self):
+        trabalho = ['Desenvolvimento de software']
+        projetos_fechados = ['Desenvolvimento Mobile', 'Análise de Dados',
+                             'Mercado financeiro']
+        pesquisa_phd = ['Fenômenos Críticos', 'Transição de fase continua',
+                        'Simulação Numérica']
+
+        
 logging.basicConfig(filename='visitantes.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
 logging.info('Olá, visitante: %s, seja bem vindo', visitante)
 
-```
 
 ## **Linguagens e Ferramentas:**  
 
