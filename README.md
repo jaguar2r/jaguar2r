@@ -30,7 +30,7 @@ class Jaguar(Desenvolvedor):
         self.ferramentas = ['VSCode', 'Spyder', 'Trello', 'Figma']
 
     def interesses(self):
-        self.assuntos = ['Programação', 'Finanças', 'Física Teórica']
+        self.assuntos = ['Programação', 'Finanças', 'Criptoativos', 'Renda Variável', 'Física Teórica']
         self.livros = ['Essencialismo: A disciplinada busca por menos', 'Os Axiomas de Zurique', 'O guia do mochileiro das galáxias']
         self.series = ['Game of Thrones', 'Vikings', 'Breaking Bad', 'Better Call Saul', 'A Casa do Dragão']
         self.hobbies = ['Corridas', 'Ciclismo']
