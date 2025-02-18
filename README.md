@@ -7,7 +7,6 @@ Já que você está aqui, deixa eu apresentar algumas informações sobre mim.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 ```python
-import logging
 from jaguar2r import Desenvolvedor
 
 class Jaguar(Desenvolvedor):
