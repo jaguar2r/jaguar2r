@@ -38,10 +38,6 @@ class Jaguar(Desenvolvedor):
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaguar2r&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaguar2r&show_icons=true&theme=dracula&line_height=27" alt="**Ricardo Silva** github stats"/>
 </a>
 
